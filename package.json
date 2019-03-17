@@ -1,0 +1,16 @@
+{
+  "name": "node-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-hashtable": "^1.0.0",
+    "websocket": "^1.0.28"
+  }
+}
